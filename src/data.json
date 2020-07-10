@@ -1,0 +1,254 @@
+{
+	"CCC": [
+		{
+			"name": "Multi-Purpose Cultural Bhavan Sec 14 Vashi",
+			"status": "Functional",
+			"noBeds": "108",
+			"noOccBeds": "102"
+		},
+		{
+			"name": "Multi-Purpose Bhavan, CBD Belapur",
+			"status": "Functional",
+			"noBeds": "96",
+			"noOccBeds": "86"
+		},
+		{
+			"name": "India Bulls Residency, Panvel",
+			"status": "Functional",
+			"noBeds": "1080",
+			"noOccBeds": "26"
+		},
+		{
+			"name": "Nerul Multipurpose Hall",
+			"status": "Functional",
+			"noBeds": "55",
+			"noOccBeds": "53"
+		},
+		{
+			"name": "Airoli Samaj Mandir",
+			"status": "Functional",
+			"noBeds": "76",
+			"noOccBeds": "61"
+		},
+		{
+			"name": "Agri Koli Bhavan CIDCO",
+			"status": "Functional",
+			"noBeds": "100",
+			"noOccBeds": "29"
+		},
+		{
+			"name": "Koparkhairne Samaj Mandir",
+			"status": "Functional",
+			"noBeds": "70",
+			"noOccBeds": "65"
+		},
+		{
+			"name": "K Star Vashi",
+			"status": "Functional",
+			"noBeds": "60",
+			"noOccBeds": "26"
+		},
+		{
+			"name": "CIDCO Exhibition Hall, Vashi",
+			"status": "Functional",
+			"noBeds": "619",
+			"noOccBeds": "369"
+		},
+		{
+			"name": "ETC, Vashi",
+			"status": "Functional",
+			"noBeds": "100",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Reliance IT Park Ghansoli",
+			"status": "Functional",
+			"noBeds": "90",
+			"noOccBeds": "90"
+		},
+		{
+			"name": "India Bulls Residency, Panvel (Planned)",
+			"status": "Functional",
+			"noBeds": "1080",
+			"noOccBeds": "67"
+		},
+		{
+			"name": "Export Building, APMC",
+			"status": "Planned",
+			"noBeds": "300",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Apollo Hospital, Belapur (NMMC-CCC)",
+			"status": "Planned",
+			"noBeds": "0",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "IBIS HOTEL",
+			"status": "Functional",
+			"noBeds": "196",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Ramada Hotel ( NMMC )",
+			"status": "Functional",
+			"noBeds": "99",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Hotel Darsh Lodge - NMMC",
+			"status": "Functional",
+			"noBeds": "35",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Sai Sunder Hotel - NMMC",
+			"status": "Functional",
+			"noBeds": "12",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Pranam Hotel - NMMC",
+			"status": "Functional",
+			"noBeds": "25",
+			"noOccBeds": "0"
+		}
+	],
+	"DCHC": [
+		{
+			"name": "Mathadi Hospital",
+			"status": "Functional",
+			"noBeds": "80",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Nerul New Manak Hospital",
+			"status": "Functional",
+			"noBeds": "50",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Neurogen BSI Hospital Nerul",
+			"status": "Functional",
+			"noBeds": "75",
+			"noOccBeds": "69"
+		},
+		{
+			"name": "Sunshine Hospital Nerul",
+			"status": "Functional",
+			"noBeds": "40",
+			"noOccBeds": "25"
+		},
+		{
+			"name": "Dr. D. Y. Patil Hospital",
+			"status": "Functional",
+			"noBeds": "250",
+			"noOccBeds": "202"
+		},
+		{
+			"name": "MGM Sanpada (Planned)",
+			"status": "Planned",
+			"noBeds": "75",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "CIDCO Exhibition Center Vashi",
+			"status": "Functional",
+			"noBeds": "500",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "India Bulls Residency, Panvel (DCHC)",
+			"status": "Planned",
+			"noBeds": "500",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Export Building, APMC",
+			"status": "Planned",
+			"noBeds": "100",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Mahatma Phule Charitable Trust",
+			"status": "Planned",
+			"noBeds": "65",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "Dr. D . Y . Hospital ( Planned )",
+			"status": "Planned",
+			"noBeds": "0",
+			"noOccBeds": "0"
+		}
+	],
+	"DCH": [
+		{
+			"name": "NMMC General Hospital, Vashi",
+			"status": "Functional",
+			"noBeds": "175",
+			"noOccBeds": "162"
+		},
+		{
+			"name": "Terna Hospital, Nerul",
+			"status": "Functional",
+			"noBeds": "150",
+			"noOccBeds": "98"
+		},
+		{
+			"name": "Apollo Hospital, Belapur (NMMC-DCH)",
+			"status": "Functional",
+			"noBeds": "80",
+			"noOccBeds": "72"
+		},
+		{
+			"name": "MPCT Hospital - Sanpada (NMMC)",
+			"status": "Functional",
+			"noBeds": "65",
+			"noOccBeds": "65"
+		},
+		{
+			"name": "MGM Hospital, CBD",
+			"status": "Functional",
+			"noBeds": "25",
+			"noOccBeds": "20"
+		},
+		{
+			"name": "Fortis Hospital, Vashi",
+			"status": "Functional",
+			"noBeds": "75",
+			"noOccBeds": "71"
+		},
+		{
+			"name": "Reliance Hospital KK",
+			"status": "Functional",
+			"noBeds": "120",
+			"noOccBeds": "110"
+		},
+		{
+			"name": "Apollo Hospital, Belapur (NMMC-DCH-P)",
+			"status": "Planned",
+			"noBeds": "0",
+			"noOccBeds": "0"
+		},
+		{
+			"name": "PKC Hospital - NMMC",
+			"status": "Functional",
+			"noBeds": "26",
+			"noOccBeds": "19"
+		},
+		{
+			"name": "Dr. D . Y . Hospital",
+			"status": "Functional",
+			"noBeds": "150",
+			"noOccBeds": "31"
+		},
+		{
+			"name": "Indravati Hospital Airoli",
+			"status": "Functional",
+			"noBeds": "40",
+			"noOccBeds": "40"
+		}
+	]
+}
